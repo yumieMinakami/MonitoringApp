@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MonitoringApp</string>
+
+    <string name="ble_not_supported">この端末はBLEが対応していません.</string>
+    <string name="bt_on">Bluetoothは起動状態です</string>
+    <string name="bt_turning_on">Bluetoothは起動中です</string>
+    <string name="bt_off">Bluetoothが起動していません。起動してください</string>
+    <string name="bt_turning_off">Bluetoothは停止中です</string>
+    <string name="bt_on_request">Bluetoothを起動してください</string>
+    <string name="bt_connected">Bluetoothは接続状態です</string>
+    <string name="bt_disconnected">Bluetoothは接続していません</string>
+    <string name="bt_connect_request">Bluetoothデバイスに接続してください</string>
+    <string name="bt_state_connected">Profileに接続しています</string>
+    <string name="bt_state_connecting">Profileに接続中です</string>
+    <string name="bt_state_disconnected">Profileには接続していません</string>
+    <string name="bt_state_disconnecting">Profileに接続停止中です</string>
+</resources>
